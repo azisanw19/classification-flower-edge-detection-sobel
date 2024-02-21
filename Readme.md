@@ -1,4 +1,4 @@
-# Flowers
+# Classification Flower using Edge Detection Sobel
 
 ## Feature SVM_sobel
 
